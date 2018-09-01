@@ -1,4 +1,4 @@
-# Custom-UIKit
+# CUIKit, Customize UIKit
 
 Easy to customize all of the iOS UIKit :smile:
 
