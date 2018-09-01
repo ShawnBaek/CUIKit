@@ -10,7 +10,7 @@ I'm going to add all of iOS UIKit.
 
 Please let me know If you want to customize UIKit.
 
-## [Custom-UIKit-NavigationBar](https://github.com/ShawnBaek/Custom-UIKit-NavigationBar)
+## [CUIKit-NavigationController](https://github.com/ShawnBaek/Custom-UIKit-NavigationBar)
 
 Enable to set UINavigationBar's height.
 
